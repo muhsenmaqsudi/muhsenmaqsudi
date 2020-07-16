@@ -14,7 +14,7 @@ A little more about me...
 const muhsenmaqsudi = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, PHP, NodeJS],
-  tools: [Laravel, VueJS, TailwindCSS, NestJS, Jest, Docker, Nginx, Jenkins],  
+  tools: [Laravel, VueJS, TailwindCSS, NestJS, Jest, Cypress, Docker, Nginx, Jenkins, Redis, RabbitMQ],  
   challenge: "I am doing the #100DaysOfCode challenge focused on nestjs, typescript, vuejs, jest and docker + nginx"
 }
 ```
